@@ -1,0 +1,8 @@
+INSERT INTO bears('Mr.Chocolate', 4, 'F', 'BLUE', 'GOOD', 0)
+INSERT INTO bears('Rowdy', 4, 'F', 'BLUE', 'GOOD', 0)
+INSERT INTO bears('Tabitha', 4, 'F', 'BLUE', 'GOOD', 0)
+INSERT INTO bears('Sergeant Brown', 4, 'F', 'BLUE', 'GOOD', 0)
+INSERT INTO bears('Melissa', 4, 'F', 'BLUE', 'GOOD', 0)
+INSERT INTO bears('Grinch', 4, 'F', 'BLUE', 'GOOD', 0)
+INSERT INTO bears('Wendy', 4, 'F', 'BLUE', 'GOOD', 0)
+INSERT INTO bears( NULL, 4, 'F', 'BLUE', 'GOOD', 0)
